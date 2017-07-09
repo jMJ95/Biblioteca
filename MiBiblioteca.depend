@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1448774650 source:c:\users\johan_000\desktop\johan\itla\7mo cuatrimestre\estructura de datos\tareas\mibiblioteca\librerias.cpp
+	"librerias.h"
+
+1448775296 c:\users\johan_000\desktop\johan\itla\7mo cuatrimestre\estructura de datos\tareas\mibiblioteca\librerias.h
+
+1448775563 source:c:\users\johan_000\desktop\johan\itla\7mo cuatrimestre\estructura de datos\tareas\mibiblioteca\main.cpp
+	"librerias.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
